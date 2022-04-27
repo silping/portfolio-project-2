@@ -1,3 +1,9 @@
+:root {
+  --primary-color: #aeb1ac;
+  --secodary-color: #2d2d2d;
+  --tertiary-color: F7F202;
+}
+
 body {
   margin: 0 30px;
 }
